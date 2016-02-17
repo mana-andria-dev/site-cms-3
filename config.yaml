@@ -1,0 +1,6 @@
+BaseUrl: "https://site-cms-3.herokuapp.com/"
+LanguageCode: "en-us"
+Title: "Loocho"
+
+Params:
+  Author: "Mana"

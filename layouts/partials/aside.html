@@ -1,0 +1,22 @@
+          <aside>
+                    <h3>Documentation</h3>
+                    <ul>
+                        {{ range first 10 .Site.Pages }}
+                        <li>        
+                            <a href="{{ .Permalink }}">{{ .Title }}</a>
+                        </li>
+                        {{ end }}
+                    </ul>
+
+                    <h3>API</h3>
+                    <ul>
+                        <li>        
+                            <a href="#">Web API</a>
+                        </li>
+                        <li>
+                            <a href="#">API Terms of Service</a>
+                        </li>
+                    </ul>
+
+            </aside>
+
