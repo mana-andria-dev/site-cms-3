@@ -1,4 +1,4 @@
-BaseUrl: "htts://example.herokuapp.com/"
+BaseUrl: "https://site-static.herokuapp.com/"
 LanguageCode: "en-us"
 Title: "Loocho"
 
